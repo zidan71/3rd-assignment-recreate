@@ -1,0 +1,16 @@
+nav ul li{
+    display:inline;
+    padding: 5px;
+    margin-right: 10px;
+}
+nav li >a{
+    text-decoration: none;
+    text-decoration-style: none;
+    color: black;
+}
+nav ul{
+    display: flex;
+}
+nav li:hover{
+    background-color: black;
+}

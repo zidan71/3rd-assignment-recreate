@@ -1,0 +1,19 @@
+h3{
+    text-decoration:overline ;
+}
+.blogs{
+    /* border-radius: 10px;
+    border: 5px solid tomato; */
+}
+.second .blogs{
+display: block;
+}
+.header{
+    height: 350px;
+    background-color: cadetblue;
+    background-image: url('Blog-september.jpg');
+    /* background-position: 100px; */
+    background-size: cover;
+    color: rgb(57, 167, 45);
+    
+}
